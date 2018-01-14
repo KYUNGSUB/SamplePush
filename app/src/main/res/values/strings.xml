@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SamplePush</string>
+    <string name="msg_subscribed">Subscribed to news topic</string>
+</resources>
